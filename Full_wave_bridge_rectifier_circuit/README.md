@@ -1,0 +1,4 @@
+# proteus_simulation
+
+全波桥式整流电路
+直接使用isis proteus 打开Full_wave_bridge_rectifier_circuit.pdsprj文件,然后点击仿真
