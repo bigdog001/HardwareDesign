@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=C07-1
+Removed Pin From Net: NetName=12V Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=rp4-2
+Removed Member From Class: ClassName=Sheet1 Member=C06
+Removed Member From Class: ClassName=Sheet1 Member=C07
+Removed Member From Class: ClassName=Sheet1 Member=D3
+Removed Member From Class: ClassName=Sheet1 Member=R12
+Removed Member From Class: ClassName=Sheet1 Member=R13
+Removed Member From Class: ClassName=Sheet1 Member=R14
+Removed Member From Class: ClassName=Sheet1 Member=rp3
+Removed Member From Class: ClassName=Sheet1 Member=rp4
+Change Component Footprint: Designator=C05 Old Footprint=RAD-0.1 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C04 Old Footprint=RAD-0.1 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C03 Old Footprint=RAD-0.1 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C02 Old Footprint=RAD-0.1 New Footprint=RAD-0.3
+Change Component Footprint: Designator=C01 Old Footprint=RAD-0.1 New Footprint=RAD-0.3
+Change Component Footprint: Designator=Q3 Old Footprint=SFM-T3/A4.7V New Footprint=BCY-W3/E4
+Change Component Footprint: Designator=Q01 Old Footprint=SFM-T3/A4.7V New Footprint=BCY-W3/E4
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R10-2
+Added Net: Name=NetQ3_2
+Added Room: Name=Sheet1
