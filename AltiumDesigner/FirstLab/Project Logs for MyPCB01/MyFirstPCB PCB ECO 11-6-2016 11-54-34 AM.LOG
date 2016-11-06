@@ -1,0 +1,12 @@
+Added Component: Designator=1k(AXIAL-0.3)
+Added Component: Designator=4.5V(BAT-2)
+Added Pin To Net: NetName=Net1k_1 Pin=1k-1
+Added Pin To Net: NetName=Net1k_1 Pin=4.5V-1
+Added Pin To Net: NetName=Net1k_1 Pin=D1-1
+Added Net: Name=Net1k_1
+Added Pin To Net: NetName=Net1k_2 Pin=1k-2
+Added Pin To Net: NetName=Net1k_2 Pin=4.5V-2
+Added Pin To Net: NetName=Net1k_2 Pin=D2-1
+Added Net: Name=Net1k_2
+Added Member To Class: ClassName=MyFirstSch Member=Component 1k Res1
+Added Member To Class: ClassName=MyFirstSch Member=Component 4.5V Battery
