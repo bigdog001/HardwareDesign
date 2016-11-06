@@ -1,0 +1,9 @@
+Added Component: Designator=D?(3.2X1.6X1.1)
+Added Component: Designator=D?(3.2X1.6X1.1)
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Net: Name=NetD?_2
+Added Class: Name=MyFirstSch
+Added Room: Name=MyFirstSch
